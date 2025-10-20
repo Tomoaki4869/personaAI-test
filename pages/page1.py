@@ -44,3 +44,4 @@ if OPENAI_API_KEY:
         # AI応答の表示
         with st.chat_message("assistant"):
             st.markdown(ai_content)
+
